@@ -1,5 +1,5 @@
 def prims(graph,source):
-    mst =  [[0,0,0,0,0,0,0,0,0],
+    mst =  [[0,0,0,0,0,0,0,0,0],  #I should be using numpy here but whateveri need to get it donw right now
             [0,0,0,0,0,0,0,0,0],
             [0,0,0,0,0,0,0,0,0],
             [0,0,0,0,0,0,0,0,0],
